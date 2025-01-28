@@ -21,7 +21,7 @@ internal partial class Build : NukeBuild
     public static int Main() => Execute<Build>(x => x.Workflow);
 
     [Parameter("Configuration to build - Default is 'Release'")]
-    private readonly Configuration configuration = Configuration.Release;
+    private readonly Configuration configuration = Configuration.Debug;
 
     [Parameter($"OpenTelemetry AutoInstrumentation dependency version - Default is '{OpenTelemetryAutoInstrumentationDefaultVersion}'")]
     private readonly string openTelemetryAutoInstrumentationVersion = OpenTelemetryAutoInstrumentationDefaultVersion;
