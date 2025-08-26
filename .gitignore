@@ -459,6 +459,7 @@ $RECYCLE.BIN/
 
 NuGetPackage/
 OpenTelemetryDistribution/*
+OpenTelemetryDistribution - Copy/*
 
 lychee/out.md
 

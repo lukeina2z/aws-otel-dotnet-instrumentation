@@ -1,0 +1,755 @@
+ Volume in drive D is UserProfile
+ Volume Serial Number is 18E7-1CC7
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\exporters\AWS.Distro.OpenTelemetry.Exporter.Xray.Udp\bin\Debug\net462
+
+08/26/2025  11:19 AM            13,824 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+02/14/2022  05:34 PM            57,688 Grpc.Core.Api.dll
+02/14/2022  05:34 PM           481,112 Grpc.Core.dll
+02/14/2022  05:34 PM        12,025,176 grpc_csharp_ext.x64.dll
+02/14/2022  05:34 PM         9,420,632 grpc_csharp_ext.x86.dll
+10/28/2024  07:40 PM            26,376 Microsoft.Bcl.AsyncInterfaces.dll
+10/28/2024  07:45 PM            31,544 Microsoft.Extensions.Configuration.Abstractions.dll
+10/28/2024  07:45 PM            49,416 Microsoft.Extensions.Configuration.Binder.dll
+10/28/2024  07:45 PM            47,384 Microsoft.Extensions.Configuration.dll
+10/28/2024  07:43 PM            64,288 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+10/28/2024  07:46 PM            97,544 Microsoft.Extensions.DependencyInjection.dll
+10/28/2024  07:47 PM            34,584 Microsoft.Extensions.Diagnostics.Abstractions.dll
+10/28/2024  07:47 PM            69,384 Microsoft.Extensions.Logging.Abstractions.dll
+10/28/2024  07:48 PM            32,520 Microsoft.Extensions.Logging.Configuration.dll
+10/28/2024  07:48 PM            54,552 Microsoft.Extensions.Logging.dll
+10/28/2024  07:47 PM            28,432 Microsoft.Extensions.Options.ConfigurationExtensions.dll
+10/28/2024  07:45 PM            68,888 Microsoft.Extensions.Options.dll
+10/28/2024  07:39 PM            50,456 Microsoft.Extensions.Primitives.dll
+03/08/2023  12:09 AM           711,952 Newtonsoft.Json.dll
+03/04/2025  03:08 PM            62,464 OpenTelemetry.Api.dll
+03/04/2025  03:08 PM            24,576 OpenTelemetry.Api.ProviderBuilderExtensions.dll
+03/04/2025  03:08 PM           219,648 OpenTelemetry.dll
+03/04/2025  03:09 PM           143,872 OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+02/19/2020  03:05 AM            20,856 System.Buffers.dll
+10/28/2024  07:46 PM           199,944 System.Diagnostics.DiagnosticSource.dll
+05/07/2022  08:31 PM           142,240 System.Memory.dll
+05/15/2018  06:29 AM           115,856 System.Numerics.Vectors.dll
+10/22/2021  04:40 PM            18,024 System.Runtime.CompilerServices.Unsafe.dll
+02/19/2020  03:05 AM            25,984 System.Threading.Tasks.Extensions.dll
+05/15/2018  06:29 AM            78,992 System.ValueTuple.dll
+              30 File(s)     24,418,208 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\exporters\AWS.Distro.OpenTelemetry.Exporter.Xray.Udp\bin\Debug\net8.0
+
+08/26/2025  11:19 AM            13,312 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+10/28/2024  07:43 PM            28,440 Microsoft.Extensions.Configuration.Abstractions.dll
+10/28/2024  07:43 PM            43,800 Microsoft.Extensions.Configuration.Binder.dll
+10/28/2024  07:43 PM            44,296 Microsoft.Extensions.Configuration.dll
+10/28/2024  07:41 PM            65,288 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+10/28/2024  07:42 PM            92,424 Microsoft.Extensions.DependencyInjection.dll
+10/28/2024  07:48 PM            30,984 Microsoft.Extensions.Diagnostics.Abstractions.dll
+10/28/2024  07:48 PM            66,336 Microsoft.Extensions.Logging.Abstractions.dll
+10/28/2024  07:49 PM            27,928 Microsoft.Extensions.Logging.Configuration.dll
+10/28/2024  07:49 PM            51,480 Microsoft.Extensions.Logging.dll
+10/28/2024  07:43 PM            22,792 Microsoft.Extensions.Options.ConfigurationExtensions.dll
+10/28/2024  07:43 PM            65,296 Microsoft.Extensions.Options.dll
+10/28/2024  07:40 PM            44,296 Microsoft.Extensions.Primitives.dll
+03/08/2023  12:09 AM           712,464 Newtonsoft.Json.dll
+03/04/2025  03:08 PM            61,952 OpenTelemetry.Api.dll
+03/04/2025  03:08 PM            24,576 OpenTelemetry.Api.ProviderBuilderExtensions.dll
+03/04/2025  03:08 PM           221,184 OpenTelemetry.dll
+03/04/2025  03:09 PM           140,288 OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+10/28/2024  07:47 PM           173,840 System.Diagnostics.DiagnosticSource.dll
+              19 File(s)      1,930,976 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\exporters\AWS.Distro.OpenTelemetry.Exporter.Xray.Udp\obj\Debug\net462
+
+08/26/2025  11:19 AM            13,824 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+               1 File(s)         13,824 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\exporters\AWS.Distro.OpenTelemetry.Exporter.Xray.Udp\obj\Debug\net8.0
+
+08/26/2025  11:19 AM            13,312 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+               1 File(s)         13,312 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\exporters\AWS.Distro.OpenTelemetry.Exporter.Xray.Udp\obj\Debug\net8.0\ref
+
+08/26/2025  11:19 AM             7,680 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+               1 File(s)          7,680 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\exporters\AWS.Distro.OpenTelemetry.Exporter.Xray.Udp\obj\Debug\net8.0\refint
+
+08/26/2025  11:19 AM             7,680 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+               1 File(s)          7,680 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\integration-test-app\integration-test-app\bin\Debug\net8.0
+
+11/28/2023  12:33 PM         1,949,296 AWSSDK.Core.dll
+11/28/2023  12:33 PM           768,624 AWSSDK.S3.dll
+08/26/2025  11:29 AM            12,288 integration-test-app.dll
+10/28/2024  07:41 PM            65,288 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+10/28/2024  07:42 PM            92,424 Microsoft.Extensions.DependencyInjection.dll
+10/28/2024  07:48 PM            66,336 Microsoft.Extensions.Logging.Abstractions.dll
+10/28/2024  07:49 PM            51,480 Microsoft.Extensions.Logging.dll
+10/28/2024  07:43 PM            65,296 Microsoft.Extensions.Options.dll
+10/28/2024  07:40 PM            44,296 Microsoft.Extensions.Primitives.dll
+10/28/2024  07:47 PM           173,840 System.Diagnostics.DiagnosticSource.dll
+              10 File(s)      3,289,168 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\integration-test-app\integration-test-app\obj\Debug\net8.0
+
+08/26/2025  11:29 AM            12,288 integration-test-app.dll
+               1 File(s)         12,288 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\integration-test-app\integration-test-app\obj\Debug\net8.0\ref
+
+08/26/2025  11:29 AM             7,680 integration-test-app.dll
+               1 File(s)          7,680 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\integration-test-app\integration-test-app\obj\Debug\net8.0\refint
+
+08/26/2025  11:29 AM             7,680 integration-test-app.dll
+               1 File(s)          7,680 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\lambda-test-apps\SimpleLambdaFunction\src\SimpleLambdaFunction\bin\Debug\net8.0
+
+07/31/2024  05:26 AM            44,144 Amazon.Lambda.APIGatewayEvents.dll
+10/26/2023  03:44 PM            20,080 Amazon.Lambda.Core.dll
+02/15/2024  04:56 PM            28,272 Amazon.Lambda.Serialization.SystemTextJson.dll
+10/23/2024  11:50 AM         2,203,752 AWSSDK.Core.dll
+10/23/2024  11:50 AM           804,968 AWSSDK.S3.dll
+08/26/2025  11:29 AM             8,704 SimpleLambdaFunction.dll
+               6 File(s)      3,109,920 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\lambda-test-apps\SimpleLambdaFunction\src\SimpleLambdaFunction\obj\Debug\net8.0
+
+08/26/2025  11:29 AM             8,704 SimpleLambdaFunction.dll
+               1 File(s)          8,704 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\lambda-test-apps\SimpleLambdaFunction\src\SimpleLambdaFunction\obj\Debug\net8.0\ref
+
+08/26/2025  11:29 AM             6,144 SimpleLambdaFunction.dll
+               1 File(s)          6,144 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\sample-applications\lambda-test-apps\SimpleLambdaFunction\src\SimpleLambdaFunction\obj\Debug\net8.0\refint
+
+08/26/2025  11:29 AM             6,144 SimpleLambdaFunction.dll
+               1 File(s)          6,144 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\AWS.Distro.OpenTelemetry.AutoInstrumentation\bin\Debug\net462
+
+09/05/2024  03:48 PM            19,056 Amazon.Lambda.Core.dll
+10/22/2024  06:46 PM            26,216 Amazon.Lambda.Serialization.Json.dll
+08/26/2025  11:29 AM            81,408 AWS.Distro.OpenTelemetry.AutoInstrumentation.dll
+08/26/2025  11:19 AM            13,824 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+07/24/2024  11:45 AM         2,193,520 AWSSDK.Core.dll
+11/09/2023  07:42 PM           214,128 AWSSDK.SimpleNotificationService.dll
+11/09/2023  07:42 PM           175,216 AWSSDK.SQS.dll
+11/09/2023  07:42 PM           221,296 AWSSDK.XRay.dll
+02/14/2022  05:34 PM            57,688 Grpc.Core.Api.dll
+02/14/2022  05:34 PM           481,112 Grpc.Core.dll
+02/14/2022  05:34 PM        12,025,176 grpc_csharp_ext.x64.dll
+02/14/2022  05:34 PM         9,420,632 grpc_csharp_ext.x86.dll
+06/06/2018  05:27 PM            75,768 Microsoft.AspNetCore.Http.Abstractions.dll
+06/06/2018  05:26 PM            32,248 Microsoft.AspNetCore.Http.Features.dll
+10/28/2024  07:40 PM            26,376 Microsoft.Bcl.AsyncInterfaces.dll
+10/28/2024  07:45 PM            31,544 Microsoft.Extensions.Configuration.Abstractions.dll
+10/28/2024  07:45 PM            49,416 Microsoft.Extensions.Configuration.Binder.dll
+10/28/2024  07:45 PM            47,384 Microsoft.Extensions.Configuration.dll
+10/28/2024  07:43 PM            64,288 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+10/28/2024  07:46 PM            97,544 Microsoft.Extensions.DependencyInjection.dll
+10/28/2024  07:47 PM            34,584 Microsoft.Extensions.Diagnostics.Abstractions.dll
+10/28/2024  07:47 PM            69,384 Microsoft.Extensions.Logging.Abstractions.dll
+10/28/2024  07:48 PM            32,520 Microsoft.Extensions.Logging.Configuration.dll
+10/28/2024  07:48 PM            54,552 Microsoft.Extensions.Logging.dll
+10/28/2024  07:47 PM            28,432 Microsoft.Extensions.Options.ConfigurationExtensions.dll
+10/28/2024  07:45 PM            68,888 Microsoft.Extensions.Options.dll
+10/28/2024  07:39 PM            50,456 Microsoft.Extensions.Primitives.dll
+08/18/2025  10:28 AM            21,216 Microsoft.Win32.Primitives.dll
+08/18/2025  10:28 AM            98,616 netstandard.dll
+03/08/2023  12:09 AM           711,952 Newtonsoft.Json.dll
+03/04/2025  03:08 PM            62,464 OpenTelemetry.Api.dll
+03/04/2025  03:08 PM            24,576 OpenTelemetry.Api.ProviderBuilderExtensions.dll
+03/04/2025  03:08 PM           219,648 OpenTelemetry.dll
+03/04/2025  03:09 PM           143,872 OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+03/17/2025  10:51 PM            18,944 OpenTelemetry.Extensions.AWS.dll
+03/04/2025  03:09 PM            16,384 OpenTelemetry.Extensions.Propagators.dll
+03/05/2025  10:42 AM            50,176 OpenTelemetry.Instrumentation.AspNet.dll
+03/05/2025  10:42 AM            20,480 OpenTelemetry.Instrumentation.AspNet.TelemetryHttpModule.dll
+03/05/2025  10:47 AM            61,440 OpenTelemetry.Instrumentation.AspNetCore.dll
+08/26/2025  11:29 AM            46,080 OpenTelemetry.Instrumentation.AWS.dll
+03/05/2025  11:20 AM            74,240 OpenTelemetry.Instrumentation.Http.dll
+03/06/2025  03:13 AM            46,592 OpenTelemetry.Resources.AWS.dll
+12/11/2024  10:36 PM            49,664 OpenTelemetry.Sampler.AWS.dll
+11/07/2022  01:17 PM            34,304 OpenTelemetry.SemanticConventions.dll
+08/18/2025  10:28 AM            21,176 System.AppContext.dll
+02/19/2020  03:05 AM            20,856 System.Buffers.dll
+08/18/2025  10:28 AM            21,224 System.Collections.Concurrent.dll
+08/18/2025  10:28 AM            21,696 System.Collections.dll
+08/18/2025  10:28 AM            21,224 System.Collections.NonGeneric.dll
+08/18/2025  10:28 AM            21,224 System.Collections.Specialized.dll
+08/18/2025  10:28 AM            21,192 System.ComponentModel.dll
+08/18/2025  10:28 AM            21,768 System.ComponentModel.EventBasedAsync.dll
+08/18/2025  10:28 AM            21,752 System.ComponentModel.Primitives.dll
+08/18/2025  10:28 AM            22,784 System.ComponentModel.TypeConverter.dll
+08/18/2025  10:28 AM            21,160 System.Console.dll
+08/18/2025  10:28 AM           154,448 System.Data.Common.dll
+08/18/2025  10:28 AM            21,736 System.Diagnostics.Contracts.dll
+08/18/2025  10:28 AM            21,208 System.Diagnostics.Debug.dll
+10/28/2024  07:46 PM           199,944 System.Diagnostics.DiagnosticSource.dll
+08/18/2025  10:28 AM            21,248 System.Diagnostics.FileVersionInfo.dll
+08/18/2025  10:28 AM            21,728 System.Diagnostics.Process.dll
+08/18/2025  10:28 AM            23,936 System.Diagnostics.StackTrace.dll
+08/18/2025  10:28 AM            21,280 System.Diagnostics.TextWriterTraceListener.dll
+08/18/2025  10:28 AM            21,208 System.Diagnostics.Tools.dll
+08/18/2025  10:28 AM            21,744 System.Diagnostics.TraceSource.dll
+08/18/2025  10:28 AM            31,608 System.Diagnostics.Tracing.dll
+08/18/2025  10:28 AM            21,208 System.Drawing.Primitives.dll
+08/18/2025  10:28 AM            22,224 System.Dynamic.Runtime.dll
+08/18/2025  10:28 AM            21,744 System.Globalization.Calendars.dll
+08/18/2025  10:28 AM            21,192 System.Globalization.dll
+08/18/2025  10:28 AM            25,992 System.Globalization.Extensions.dll
+08/18/2025  10:28 AM           110,944 System.IO.Compression.dll
+08/18/2025  10:28 AM            21,224 System.IO.Compression.ZipFile.dll
+08/18/2025  10:28 AM            21,144 System.IO.dll
+08/18/2025  10:28 AM            21,192 System.IO.FileSystem.dll
+08/18/2025  10:28 AM            21,232 System.IO.FileSystem.DriveInfo.dll
+08/18/2025  10:28 AM            21,232 System.IO.FileSystem.Primitives.dll
+08/18/2025  10:28 AM            21,224 System.IO.FileSystem.Watcher.dll
+08/18/2025  10:28 AM            21,208 System.IO.IsolatedStorage.dll
+08/18/2025  10:28 AM            21,216 System.IO.MemoryMappedFiles.dll
+08/18/2025  10:28 AM            21,168 System.IO.Pipes.dll
+08/18/2025  10:28 AM            21,232 System.IO.UnmanagedMemoryStream.dll
+08/18/2025  10:28 AM            21,152 System.Linq.dll
+08/18/2025  10:28 AM            22,224 System.Linq.Expressions.dll
+08/18/2025  10:28 AM            21,192 System.Linq.Parallel.dll
+08/18/2025  10:28 AM            21,192 System.Linq.Queryable.dll
+05/07/2022  08:31 PM           142,240 System.Memory.dll
+08/18/2025  10:28 AM           198,472 System.Net.Http.dll
+08/18/2025  10:28 AM            21,208 System.Net.NameResolution.dll
+08/18/2025  10:28 AM            22,248 System.Net.NetworkInformation.dll
+08/18/2025  10:28 AM            21,168 System.Net.Ping.dll
+08/18/2025  10:28 AM            22,216 System.Net.Primitives.dll
+08/18/2025  10:28 AM            21,184 System.Net.Requests.dll
+08/18/2025  10:28 AM            21,696 System.Net.Security.dll
+08/18/2025  10:28 AM            30,544 System.Net.Sockets.dll
+08/18/2025  10:28 AM            21,232 System.Net.WebHeaderCollection.dll
+08/18/2025  10:28 AM            21,224 System.Net.WebSockets.Client.dll
+08/18/2025  10:28 AM            21,192 System.Net.WebSockets.dll
+05/15/2018  06:29 AM           115,856 System.Numerics.Vectors.dll
+08/18/2025  10:28 AM            21,696 System.ObjectModel.dll
+08/18/2025  10:28 AM            22,200 System.Reflection.dll
+08/18/2025  10:28 AM            21,224 System.Reflection.Extensions.dll
+08/18/2025  10:28 AM            21,736 System.Reflection.Primitives.dll
+08/18/2025  10:28 AM            21,200 System.Resources.Reader.dll
+08/18/2025  10:28 AM            21,232 System.Resources.ResourceManager.dll
+08/18/2025  10:28 AM            21,200 System.Resources.Writer.dll
+10/22/2021  04:40 PM            18,024 System.Runtime.CompilerServices.Unsafe.dll
+08/18/2025  10:28 AM            21,784 System.Runtime.CompilerServices.VisualC.dll
+08/18/2025  10:28 AM            29,360 System.Runtime.dll
+08/18/2025  10:28 AM            21,720 System.Runtime.Extensions.dll
+08/18/2025  10:28 AM            21,200 System.Runtime.Handles.dll
+08/18/2025  10:28 AM            24,296 System.Runtime.InteropServices.dll
+08/18/2025  10:28 AM            28,624 System.Runtime.InteropServices.RuntimeInformation.dll
+08/18/2025  10:28 AM            21,200 System.Runtime.Numerics.dll
+08/18/2025  10:28 AM            21,264 System.Runtime.Serialization.Formatters.dll
+08/18/2025  10:28 AM            21,240 System.Runtime.Serialization.Json.dll
+08/18/2025  10:28 AM            27,048 System.Runtime.Serialization.Primitives.dll
+08/18/2025  10:28 AM            24,816 System.Runtime.Serialization.Xml.dll
+08/18/2025  10:28 AM            21,200 System.Security.Claims.dll
+08/18/2025  10:28 AM            47,016 System.Security.Cryptography.Algorithms.dll
+08/18/2025  10:28 AM            21,240 System.Security.Cryptography.Csp.dll
+08/18/2025  10:28 AM            21,256 System.Security.Cryptography.Encoding.dll
+08/18/2025  10:28 AM            21,784 System.Security.Cryptography.Primitives.dll
+08/18/2025  10:28 AM            22,832 System.Security.Cryptography.X509Certificates.dll
+08/18/2025  10:28 AM            21,208 System.Security.Principal.dll
+08/18/2025  10:28 AM            22,392 System.Security.SecureString.dll
+08/18/2025  10:28 AM            21,696 System.Text.Encoding.dll
+08/18/2025  10:28 AM            21,232 System.Text.Encoding.Extensions.dll
+10/22/2021  04:41 PM            76,904 System.Text.Encodings.Web.dll
+09/09/2024  11:23 PM           515,336 System.Text.Json.dll
+08/18/2025  10:28 AM            21,232 System.Text.RegularExpressions.dll
+08/18/2025  10:28 AM            22,192 System.Threading.dll
+08/18/2025  10:28 AM            37,752 System.Threading.Overlapped.dll
+08/18/2025  10:28 AM            22,224 System.Threading.Tasks.dll
+02/19/2020  03:05 AM            25,984 System.Threading.Tasks.Extensions.dll
+08/18/2025  10:28 AM            21,232 System.Threading.Tasks.Parallel.dll
+08/18/2025  10:28 AM            21,200 System.Threading.Thread.dll
+08/18/2025  10:28 AM            21,216 System.Threading.ThreadPool.dll
+08/18/2025  10:28 AM            21,200 System.Threading.Timer.dll
+05/15/2018  06:29 AM            78,992 System.ValueTuple.dll
+08/18/2025  10:28 AM            21,712 System.Xml.ReaderWriter.dll
+08/18/2025  10:28 AM            21,696 System.Xml.XDocument.dll
+08/18/2025  10:28 AM            21,712 System.Xml.XmlDocument.dll
+08/18/2025  10:28 AM            21,712 System.Xml.XmlSerializer.dll
+08/18/2025  10:28 AM            21,176 System.Xml.XPath.dll
+08/18/2025  10:28 AM            22,904 System.Xml.XPath.XDocument.dll
+             146 File(s)     31,080,360 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\AWS.Distro.OpenTelemetry.AutoInstrumentation\bin\Debug\net8.0
+
+10/26/2023  03:44 PM            44,144 Amazon.Lambda.APIGatewayEvents.dll
+10/26/2023  03:44 PM            19,568 Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+09/05/2024  03:48 PM            22,640 Amazon.Lambda.Core.dll
+10/22/2024  06:46 PM            26,216 Amazon.Lambda.Serialization.Json.dll
+10/26/2023  03:44 PM            20,080 Amazon.Lambda.SNSEvents.dll
+10/26/2023  03:44 PM            21,104 Amazon.Lambda.SQSEvents.dll
+08/26/2025  11:29 AM            86,528 AWS.Distro.OpenTelemetry.AutoInstrumentation.dll
+08/26/2025  11:19 AM            13,312 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+07/24/2024  11:48 AM         2,142,320 AWSSDK.Core.dll
+11/09/2023  07:43 PM           214,128 AWSSDK.SimpleNotificationService.dll
+11/09/2023  07:43 PM           159,344 AWSSDK.SQS.dll
+11/09/2023  07:43 PM           235,120 AWSSDK.XRay.dll
+10/28/2024  07:43 PM            28,440 Microsoft.Extensions.Configuration.Abstractions.dll
+10/28/2024  07:43 PM            43,800 Microsoft.Extensions.Configuration.Binder.dll
+10/28/2024  07:43 PM            44,296 Microsoft.Extensions.Configuration.dll
+10/28/2024  07:41 PM            65,288 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+10/28/2024  07:42 PM            92,424 Microsoft.Extensions.DependencyInjection.dll
+10/28/2024  07:48 PM            30,984 Microsoft.Extensions.Diagnostics.Abstractions.dll
+10/28/2024  07:48 PM            66,336 Microsoft.Extensions.Logging.Abstractions.dll
+10/28/2024  07:49 PM            27,928 Microsoft.Extensions.Logging.Configuration.dll
+10/28/2024  07:49 PM            51,480 Microsoft.Extensions.Logging.dll
+10/28/2024  07:43 PM            22,792 Microsoft.Extensions.Options.ConfigurationExtensions.dll
+10/28/2024  07:43 PM            65,296 Microsoft.Extensions.Options.dll
+10/28/2024  07:40 PM            44,296 Microsoft.Extensions.Primitives.dll
+03/08/2023  12:09 AM           712,464 Newtonsoft.Json.dll
+03/04/2025  03:08 PM            61,952 OpenTelemetry.Api.dll
+03/04/2025  03:08 PM            24,576 OpenTelemetry.Api.ProviderBuilderExtensions.dll
+03/04/2025  03:08 PM           221,184 OpenTelemetry.dll
+03/04/2025  03:09 PM           140,288 OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+03/17/2025  10:51 PM            16,384 OpenTelemetry.Extensions.AWS.dll
+03/04/2025  03:09 PM            15,872 OpenTelemetry.Extensions.Propagators.dll
+03/05/2025  10:47 AM            60,416 OpenTelemetry.Instrumentation.AspNetCore.dll
+08/26/2025  11:29 AM            46,080 OpenTelemetry.Instrumentation.AWS.dll
+03/17/2025  10:51 PM            71,680 OpenTelemetry.Instrumentation.AWSLambda.dll
+03/05/2025  11:20 AM            59,392 OpenTelemetry.Instrumentation.Http.dll
+03/06/2025  03:13 AM            72,704 OpenTelemetry.Resources.AWS.dll
+12/11/2024  10:36 PM            90,112 OpenTelemetry.Sampler.AWS.dll
+11/07/2022  01:17 PM            34,304 OpenTelemetry.SemanticConventions.dll
+10/28/2024  07:47 PM           173,840 System.Diagnostics.DiagnosticSource.dll
+              39 File(s)      5,389,112 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\AWS.Distro.OpenTelemetry.AutoInstrumentation\obj\Debug\net462
+
+08/26/2025  11:29 AM            81,408 AWS.Distro.OpenTelemetry.AutoInstrumentation.dll
+               1 File(s)         81,408 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\AWS.Distro.OpenTelemetry.AutoInstrumentation\obj\Debug\net8.0
+
+08/26/2025  11:29 AM            86,528 AWS.Distro.OpenTelemetry.AutoInstrumentation.dll
+               1 File(s)         86,528 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\AWS.Distro.OpenTelemetry.AutoInstrumentation\obj\Debug\net8.0\ref
+
+08/26/2025  11:29 AM            23,040 AWS.Distro.OpenTelemetry.AutoInstrumentation.dll
+               1 File(s)         23,040 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\AWS.Distro.OpenTelemetry.AutoInstrumentation\obj\Debug\net8.0\refint
+
+08/26/2025  11:29 AM            23,040 AWS.Distro.OpenTelemetry.AutoInstrumentation.dll
+               1 File(s)         23,040 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\OpenTelemetry.Instrumentation.AWS\bin\Debug\net462
+
+11/09/2023  07:42 PM         2,020,464 AWSSDK.Core.dll
+11/09/2023  07:42 PM           214,128 AWSSDK.SimpleNotificationService.dll
+11/09/2023  07:42 PM           175,216 AWSSDK.SQS.dll
+11/09/2023  07:42 PM           221,296 AWSSDK.XRay.dll
+10/22/2021  04:42 PM            22,144 Microsoft.Bcl.AsyncInterfaces.dll
+12/31/1979  05:00 PM            21,368 Microsoft.Extensions.Configuration.Abstractions.dll
+12/31/1979  05:00 PM            24,952 Microsoft.Extensions.Configuration.Binder.dll
+12/31/1979  05:00 PM            27,000 Microsoft.Extensions.Configuration.dll
+12/31/1979  05:00 PM            37,752 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+12/31/1979  05:00 PM            72,568 Microsoft.Extensions.DependencyInjection.dll
+12/31/1979  05:00 PM            48,504 Microsoft.Extensions.Logging.Abstractions.dll
+12/31/1979  05:00 PM            20,344 Microsoft.Extensions.Logging.Configuration.dll
+12/31/1979  05:00 PM            34,168 Microsoft.Extensions.Logging.dll
+12/31/1979  05:00 PM            18,296 Microsoft.Extensions.Options.ConfigurationExtensions.dll
+12/31/1979  05:00 PM            50,552 Microsoft.Extensions.Options.dll
+12/31/1979  05:00 PM            38,264 Microsoft.Extensions.Primitives.dll
+08/18/2025  10:28 AM            21,216 Microsoft.Win32.Primitives.dll
+08/18/2025  10:28 AM            98,616 netstandard.dll
+06/26/2023  04:19 PM            62,976 OpenTelemetry.Api.dll
+06/26/2023  04:19 PM            23,040 OpenTelemetry.Api.ProviderBuilderExtensions.dll
+06/26/2023  04:19 PM           207,360 OpenTelemetry.dll
+08/01/2023  10:16 PM            18,944 OpenTelemetry.Extensions.AWS.dll
+08/26/2025  11:29 AM            46,080 OpenTelemetry.Instrumentation.AWS.dll
+08/18/2025  10:28 AM            21,176 System.AppContext.dll
+02/19/2020  03:05 AM            20,856 System.Buffers.dll
+08/18/2025  10:28 AM            21,224 System.Collections.Concurrent.dll
+08/18/2025  10:28 AM            21,696 System.Collections.dll
+08/18/2025  10:28 AM            21,224 System.Collections.NonGeneric.dll
+08/18/2025  10:28 AM            21,224 System.Collections.Specialized.dll
+05/15/2018  06:29 AM            43,152 System.ComponentModel.Annotations.dll
+08/18/2025  10:28 AM            21,192 System.ComponentModel.dll
+08/18/2025  10:28 AM            21,768 System.ComponentModel.EventBasedAsync.dll
+08/18/2025  10:28 AM            21,752 System.ComponentModel.Primitives.dll
+08/18/2025  10:28 AM            22,784 System.ComponentModel.TypeConverter.dll
+08/18/2025  10:28 AM            21,160 System.Console.dll
+08/18/2025  10:28 AM           154,448 System.Data.Common.dll
+08/18/2025  10:28 AM            21,736 System.Diagnostics.Contracts.dll
+08/18/2025  10:28 AM            21,208 System.Diagnostics.Debug.dll
+10/18/2022  09:19 AM           173,688 System.Diagnostics.DiagnosticSource.dll
+08/18/2025  10:28 AM            21,248 System.Diagnostics.FileVersionInfo.dll
+08/18/2025  10:28 AM            21,728 System.Diagnostics.Process.dll
+08/18/2025  10:28 AM            23,936 System.Diagnostics.StackTrace.dll
+08/18/2025  10:28 AM            21,280 System.Diagnostics.TextWriterTraceListener.dll
+08/18/2025  10:28 AM            21,208 System.Diagnostics.Tools.dll
+08/18/2025  10:28 AM            21,744 System.Diagnostics.TraceSource.dll
+08/18/2025  10:28 AM            31,608 System.Diagnostics.Tracing.dll
+08/18/2025  10:28 AM            21,208 System.Drawing.Primitives.dll
+08/18/2025  10:28 AM            22,224 System.Dynamic.Runtime.dll
+08/18/2025  10:28 AM            21,744 System.Globalization.Calendars.dll
+08/18/2025  10:28 AM            21,192 System.Globalization.dll
+08/18/2025  10:28 AM            25,992 System.Globalization.Extensions.dll
+08/18/2025  10:28 AM           110,944 System.IO.Compression.dll
+08/18/2025  10:28 AM            21,224 System.IO.Compression.ZipFile.dll
+08/18/2025  10:28 AM            21,144 System.IO.dll
+08/18/2025  10:28 AM            21,192 System.IO.FileSystem.dll
+08/18/2025  10:28 AM            21,232 System.IO.FileSystem.DriveInfo.dll
+08/18/2025  10:28 AM            21,232 System.IO.FileSystem.Primitives.dll
+08/18/2025  10:28 AM            21,224 System.IO.FileSystem.Watcher.dll
+08/18/2025  10:28 AM            21,208 System.IO.IsolatedStorage.dll
+08/18/2025  10:28 AM            21,216 System.IO.MemoryMappedFiles.dll
+08/18/2025  10:28 AM            21,168 System.IO.Pipes.dll
+08/18/2025  10:28 AM            21,232 System.IO.UnmanagedMemoryStream.dll
+08/18/2025  10:28 AM            21,152 System.Linq.dll
+08/18/2025  10:28 AM            22,224 System.Linq.Expressions.dll
+08/18/2025  10:28 AM            21,192 System.Linq.Parallel.dll
+08/18/2025  10:28 AM            21,192 System.Linq.Queryable.dll
+05/07/2022  08:31 PM           142,240 System.Memory.dll
+08/18/2025  10:28 AM           198,472 System.Net.Http.dll
+08/18/2025  10:28 AM            21,208 System.Net.NameResolution.dll
+08/18/2025  10:28 AM            22,248 System.Net.NetworkInformation.dll
+08/18/2025  10:28 AM            21,168 System.Net.Ping.dll
+08/18/2025  10:28 AM            22,216 System.Net.Primitives.dll
+08/18/2025  10:28 AM            21,184 System.Net.Requests.dll
+08/18/2025  10:28 AM            21,696 System.Net.Security.dll
+08/18/2025  10:28 AM            30,544 System.Net.Sockets.dll
+08/18/2025  10:28 AM            21,232 System.Net.WebHeaderCollection.dll
+08/18/2025  10:28 AM            21,224 System.Net.WebSockets.Client.dll
+08/18/2025  10:28 AM            21,192 System.Net.WebSockets.dll
+05/15/2018  06:29 AM           115,856 System.Numerics.Vectors.dll
+08/18/2025  10:28 AM            21,696 System.ObjectModel.dll
+08/18/2025  10:28 AM            22,200 System.Reflection.dll
+08/18/2025  10:28 AM            21,224 System.Reflection.Extensions.dll
+08/18/2025  10:28 AM            21,736 System.Reflection.Primitives.dll
+08/18/2025  10:28 AM            21,200 System.Resources.Reader.dll
+08/18/2025  10:28 AM            21,232 System.Resources.ResourceManager.dll
+08/18/2025  10:28 AM            21,200 System.Resources.Writer.dll
+10/22/2021  04:40 PM            18,024 System.Runtime.CompilerServices.Unsafe.dll
+08/18/2025  10:28 AM            21,784 System.Runtime.CompilerServices.VisualC.dll
+08/18/2025  10:28 AM            29,360 System.Runtime.dll
+08/18/2025  10:28 AM            21,720 System.Runtime.Extensions.dll
+08/18/2025  10:28 AM            21,200 System.Runtime.Handles.dll
+08/18/2025  10:28 AM            24,296 System.Runtime.InteropServices.dll
+08/18/2025  10:28 AM            28,624 System.Runtime.InteropServices.RuntimeInformation.dll
+08/18/2025  10:28 AM            21,200 System.Runtime.Numerics.dll
+08/18/2025  10:28 AM            21,264 System.Runtime.Serialization.Formatters.dll
+08/18/2025  10:28 AM            21,240 System.Runtime.Serialization.Json.dll
+08/18/2025  10:28 AM            27,048 System.Runtime.Serialization.Primitives.dll
+08/18/2025  10:28 AM            24,816 System.Runtime.Serialization.Xml.dll
+08/18/2025  10:28 AM            21,200 System.Security.Claims.dll
+08/18/2025  10:28 AM            47,016 System.Security.Cryptography.Algorithms.dll
+08/18/2025  10:28 AM            21,240 System.Security.Cryptography.Csp.dll
+08/18/2025  10:28 AM            21,256 System.Security.Cryptography.Encoding.dll
+08/18/2025  10:28 AM            21,784 System.Security.Cryptography.Primitives.dll
+08/18/2025  10:28 AM            22,832 System.Security.Cryptography.X509Certificates.dll
+08/18/2025  10:28 AM            21,208 System.Security.Principal.dll
+08/18/2025  10:28 AM            22,392 System.Security.SecureString.dll
+08/18/2025  10:28 AM            21,696 System.Text.Encoding.dll
+08/18/2025  10:28 AM            21,232 System.Text.Encoding.Extensions.dll
+10/22/2021  04:41 PM            76,904 System.Text.Encodings.Web.dll
+10/22/2021  04:44 PM           513,128 System.Text.Json.dll
+08/18/2025  10:28 AM            21,232 System.Text.RegularExpressions.dll
+08/18/2025  10:28 AM            22,192 System.Threading.dll
+08/18/2025  10:28 AM            37,752 System.Threading.Overlapped.dll
+08/18/2025  10:28 AM            22,224 System.Threading.Tasks.dll
+02/19/2020  03:05 AM            25,984 System.Threading.Tasks.Extensions.dll
+08/18/2025  10:28 AM            21,232 System.Threading.Tasks.Parallel.dll
+08/18/2025  10:28 AM            21,200 System.Threading.Thread.dll
+08/18/2025  10:28 AM            21,216 System.Threading.ThreadPool.dll
+08/18/2025  10:28 AM            21,200 System.Threading.Timer.dll
+05/15/2018  06:29 AM            78,992 System.ValueTuple.dll
+08/18/2025  10:28 AM            21,712 System.Xml.ReaderWriter.dll
+08/18/2025  10:28 AM            21,696 System.Xml.XDocument.dll
+08/18/2025  10:28 AM            21,712 System.Xml.XmlDocument.dll
+08/18/2025  10:28 AM            21,712 System.Xml.XmlSerializer.dll
+08/18/2025  10:28 AM            21,176 System.Xml.XPath.dll
+08/18/2025  10:28 AM            22,904 System.Xml.XPath.XDocument.dll
+             126 File(s)      7,226,992 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\OpenTelemetry.Instrumentation.AWS\bin\Debug\net8.0
+
+08/26/2025  11:29 AM            46,080 OpenTelemetry.Instrumentation.AWS.dll
+               1 File(s)         46,080 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\OpenTelemetry.Instrumentation.AWS\obj\Debug\net462
+
+08/26/2025  11:29 AM            46,080 OpenTelemetry.Instrumentation.AWS.dll
+               1 File(s)         46,080 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\OpenTelemetry.Instrumentation.AWS\obj\Debug\net8.0
+
+08/26/2025  11:29 AM            46,080 OpenTelemetry.Instrumentation.AWS.dll
+               1 File(s)         46,080 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\OpenTelemetry.Instrumentation.AWS\obj\Debug\net8.0\ref
+
+08/26/2025  11:29 AM            22,528 OpenTelemetry.Instrumentation.AWS.dll
+               1 File(s)         22,528 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\src\OpenTelemetry.Instrumentation.AWS\obj\Debug\net8.0\refint
+
+08/26/2025  11:29 AM            22,528 OpenTelemetry.Instrumentation.AWS.dll
+               1 File(s)         22,528 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0
+
+03/29/2024  07:57 AM         2,060,800 0Harmony.dll
+10/26/2023  03:44 PM            44,144 Amazon.Lambda.APIGatewayEvents.dll
+10/26/2023  03:44 PM            19,568 Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+09/05/2024  03:48 PM            22,640 Amazon.Lambda.Core.dll
+10/22/2024  06:46 PM            26,216 Amazon.Lambda.Serialization.Json.dll
+10/26/2023  03:44 PM            20,080 Amazon.Lambda.SNSEvents.dll
+10/26/2023  03:44 PM            21,104 Amazon.Lambda.SQSEvents.dll
+08/26/2025  11:29 AM            86,528 AWS.Distro.OpenTelemetry.AutoInstrumentation.dll
+08/26/2025  11:29 AM           108,032 AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests.dll
+08/26/2025  11:19 AM            13,312 AWS.Distro.OpenTelemetry.Exporter.Xray.Udp.dll
+07/24/2024  11:48 AM         2,142,320 AWSSDK.Core.dll
+11/09/2023  07:43 PM           214,128 AWSSDK.SimpleNotificationService.dll
+11/09/2023  07:43 PM           159,344 AWSSDK.SQS.dll
+11/09/2023  07:43 PM           235,120 AWSSDK.XRay.dll
+12/30/2022  02:16 AM           385,024 Castle.Core.dll
+05/17/2023  06:43 PM           411,648 Docker.DotNet.dll
+05/17/2023  06:43 PM            21,504 Docker.DotNet.X509.dll
+08/23/2023  04:05 AM           732,672 FluentAssertions.dll
+01/29/2023  07:59 AM           258,048 ICSharpCode.SharpZipLib.dll
+10/28/2024  07:43 PM            28,440 Microsoft.Extensions.Configuration.Abstractions.dll
+10/28/2024  07:43 PM            43,800 Microsoft.Extensions.Configuration.Binder.dll
+10/28/2024  07:43 PM            44,296 Microsoft.Extensions.Configuration.dll
+10/28/2024  07:41 PM            65,288 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+10/28/2024  07:42 PM            92,424 Microsoft.Extensions.DependencyInjection.dll
+10/28/2024  07:48 PM            30,984 Microsoft.Extensions.Diagnostics.Abstractions.dll
+10/28/2024  07:48 PM            66,336 Microsoft.Extensions.Logging.Abstractions.dll
+10/28/2024  07:49 PM            27,928 Microsoft.Extensions.Logging.Configuration.dll
+10/28/2024  07:49 PM            51,480 Microsoft.Extensions.Logging.dll
+10/28/2024  07:43 PM            22,792 Microsoft.Extensions.Options.ConfigurationExtensions.dll
+10/28/2024  07:43 PM            65,296 Microsoft.Extensions.Options.dll
+10/28/2024  07:40 PM            44,296 Microsoft.Extensions.Primitives.dll
+11/08/2023  03:33 AM           136,632 Microsoft.TestPlatform.CommunicationUtilities.dll
+11/08/2023  03:32 AM            97,216 Microsoft.TestPlatform.CoreUtilities.dll
+11/08/2023  03:33 AM           315,328 Microsoft.TestPlatform.CrossPlatEngine.dll
+11/08/2023  03:32 AM            53,176 Microsoft.TestPlatform.PlatformAbstractions.dll
+11/08/2023  03:32 AM            67,008 Microsoft.TestPlatform.Utilities.dll
+09/07/2023  02:23 AM            17,440 Microsoft.VisualStudio.CodeCoverage.Shim.dll
+11/08/2023  03:33 AM           247,728 Microsoft.VisualStudio.TestPlatform.Common.dll
+11/08/2023  03:32 AM           224,696 Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+11/28/2023  08:30 AM           312,320 Moq.dll
+03/08/2023  12:09 AM           712,464 Newtonsoft.Json.dll
+09/10/2023  02:59 PM           162,816 NSubstitute.dll
+01/31/2023  11:25 AM           116,672 NuGet.Frameworks.dll
+03/04/2025  03:08 PM            61,952 OpenTelemetry.Api.dll
+03/04/2025  03:08 PM            24,576 OpenTelemetry.Api.ProviderBuilderExtensions.dll
+05/18/2022  09:27 AM            38,912 OpenTelemetry.Contrib.Extensions.AWSXRay.dll
+03/04/2025  03:08 PM           221,184 OpenTelemetry.dll
+03/04/2025  03:09 PM           140,288 OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+03/17/2025  10:51 PM            16,384 OpenTelemetry.Extensions.AWS.dll
+03/04/2025  03:09 PM            15,872 OpenTelemetry.Extensions.Propagators.dll
+03/05/2025  10:47 AM            60,416 OpenTelemetry.Instrumentation.AspNetCore.dll
+08/26/2025  11:29 AM            46,080 OpenTelemetry.Instrumentation.AWS.dll
+03/17/2025  10:51 PM            71,680 OpenTelemetry.Instrumentation.AWSLambda.dll
+03/05/2025  11:20 AM            59,392 OpenTelemetry.Instrumentation.Http.dll
+03/06/2025  03:13 AM            72,704 OpenTelemetry.Resources.AWS.dll
+12/11/2024  10:36 PM            90,112 OpenTelemetry.Sampler.AWS.dll
+11/07/2022  01:17 PM            34,304 OpenTelemetry.SemanticConventions.dll
+10/10/2023  01:15 PM           849,920 Renci.SshNet.dll
+10/22/2017  01:53 PM            34,816 SshNet.Security.Cryptography.dll
+07/19/2017  03:01 AM           380,360 System.Configuration.ConfigurationManager.dll
+10/28/2024  07:47 PM           173,840 System.Diagnostics.DiagnosticSource.dll
+07/19/2017  03:01 AM            24,880 System.Security.Cryptography.ProtectedData.dll
+03/19/2024  08:08 AM           264,704 Testcontainers.dll
+11/08/2023  03:33 AM            48,576 testhost.dll
+08/25/2018  12:54 PM            21,928 xunit.abstractions.dll
+10/16/2023  02:45 PM           136,224 xunit.assert.dll
+10/16/2023  02:46 PM            63,520 xunit.core.dll
+10/16/2023  02:46 PM           263,200 xunit.execution.dotnet.dll
+04/23/2020  12:03 PM             6,144 Xunit.Repeat.dll
+10/12/2023  07:06 PM            81,952 xunit.runner.reporters.netcoreapp10.dll
+10/12/2023  07:06 PM           234,016 xunit.runner.utility.netcoreapp10.dll
+10/12/2023  07:06 PM           178,208 xunit.runner.visualstudio.dotnetcore.testadapter.dll
+              72 File(s)     13,745,232 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\cs
+
+11/08/2023  03:33 AM            16,304 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,816 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,928 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            20,408 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            23,584 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         98,040 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\de
+
+11/08/2023  03:33 AM            16,824 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,816 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,920 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            20,920 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,112 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         99,592 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\es
+
+11/08/2023  03:33 AM            16,816 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,824 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,928 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            20,912 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,096 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         99,576 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\fr
+
+11/08/2023  03:33 AM            16,824 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,824 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,928 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            20,920 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,112 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         99,608 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\it
+
+11/08/2023  03:33 AM            16,824 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,816 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,920 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            21,024 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,104 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         99,688 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\ja
+
+11/08/2023  03:33 AM            16,832 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            17,336 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            21,944 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            21,536 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,608 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)        102,256 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\ko
+
+11/08/2023  03:33 AM            16,832 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,824 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            21,440 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            21,032 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,096 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)        100,224 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\pl
+
+11/08/2023  03:33 AM            16,832 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,816 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            21,440 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            21,024 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,096 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)        100,208 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\pt-BR
+
+11/08/2023  03:33 AM            16,320 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,824 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,912 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            21,024 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            24,096 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         99,176 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\ru
+
+11/08/2023  03:33 AM            17,344 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            17,336 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            22,968 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            23,072 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            26,144 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)        106,864 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0
+
+07/19/2017  03:01 AM            31,688 System.Security.Cryptography.ProtectedData.dll
+               1 File(s)         31,688 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\tr
+
+11/08/2023  03:33 AM            16,832 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,816 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,928 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            20,520 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            23,584 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         98,680 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\zh-Hans
+
+11/08/2023  03:33 AM            16,320 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,832 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            19,896 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            20,000 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            23,080 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         96,128 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\bin\Debug\net8.0\zh-Hant
+
+11/08/2023  03:33 AM            16,312 Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+11/08/2023  03:32 AM            16,832 Microsoft.TestPlatform.CoreUtilities.resources.dll
+11/08/2023  03:33 AM            20,416 Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+11/08/2023  03:33 AM            20,000 Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+11/08/2023  03:32 AM            23,072 Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+               5 File(s)         96,632 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\obj\Debug\net8.0
+
+08/26/2025  11:29 AM           108,032 AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests.dll
+               1 File(s)        108,032 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\obj\Debug\net8.0\ref
+
+08/26/2025  11:29 AM            30,208 AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests.dll
+               1 File(s)         30,208 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests\obj\Debug\net8.0\refint
+
+08/26/2025  11:29 AM            30,208 AWS.Distro.OpenTelemetry.AutoInstrumentation.Tests.dll
+               1 File(s)         30,208 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\images\MockCollector\bin\Debug\net8.0
+
+05/22/2024  12:26 PM           483,616 Google.Protobuf.dll
+05/24/2024  12:06 AM            31,520 Grpc.AspNetCore.Server.ClientFactory.dll
+05/24/2024  12:06 AM           147,232 Grpc.AspNetCore.Server.dll
+05/24/2024  12:06 AM            22,304 Grpc.AspNetCore.Server.Reflection.dll
+05/24/2024  12:06 AM            70,432 Grpc.Core.Api.dll
+05/24/2024  12:06 AM           298,784 Grpc.Net.Client.dll
+05/24/2024  12:06 AM            50,464 Grpc.Net.ClientFactory.dll
+05/24/2024  12:06 AM            22,304 Grpc.Net.Common.dll
+05/24/2024  12:06 AM            52,000 Grpc.Reflection.dll
+11/30/2023  01:25 AM            42,776 Microsoft.Extensions.Configuration.Binder.dll
+08/26/2025  11:29 AM           237,056 MockCollector.dll
+03/08/2023  12:09 AM           712,464 Newtonsoft.Json.dll
+05/20/2024  11:40 AM            60,928 OpenTelemetry.Api.dll
+05/20/2024  11:40 AM            25,088 OpenTelemetry.Api.ProviderBuilderExtensions.dll
+05/20/2024  11:40 AM           222,208 OpenTelemetry.dll
+05/20/2024  11:40 AM           350,208 OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+09/27/2023  11:51 AM           296,960 protobuf-net.Core.dll
+09/27/2023  11:51 AM           284,160 protobuf-net.dll
+              18 File(s)      3,410,504 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\images\MockCollector\obj\Debug\net8.0
+
+08/26/2025  11:29 AM           237,056 MockCollector.dll
+               1 File(s)        237,056 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\images\MockCollector\obj\Debug\net8.0\ref
+
+08/26/2025  11:29 AM            77,312 MockCollector.dll
+               1 File(s)         77,312 bytes
+
+ Directory of D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\test\images\MockCollector\obj\Debug\net8.0\refint
+
+08/26/2025  11:29 AM            77,312 MockCollector.dll
+               1 File(s)         77,312 bytes
+
+     Total Files Listed:
+             557 File(s)     95,977,408 bytes
+               0 Dir(s)  456,616,984,576 bytes free
