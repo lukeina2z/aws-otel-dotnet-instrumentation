@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -14,9 +14,15 @@ namespace HttpServer
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                name: "AwsSdkCall",
+                url: "aws-sdk-call",
+                defaults: new { controller = "HttpCall", action = "AwsSdkCall" }
+            );
+
+            routes.MapRoute(
                 name: "OutgoingHttpCall",
-                url: "outgoing-http-call/test/{id}",
-                defaults: new { controller = "HttpCall", action = "OutgoingHttpCall", id = UrlParameter.Optional }
+                url: "outgoing-http-call",
+                defaults: new { controller = "HttpCall", action = "OutgoingHttpCall" }
             );
 
             routes.MapRoute(

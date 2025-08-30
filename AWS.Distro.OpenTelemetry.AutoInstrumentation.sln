@@ -45,36 +45,90 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTelemetry.Instrumentati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLambdaFunction", "sample-applications\lambda-test-apps\SimpleLambdaFunction\src\SimpleLambdaFunction\SimpleLambdaFunction.csproj", "{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "..\..\playground\AppSignalsTestApps\dotnetAppSignalsSolution\ConsoleApp\ConsoleApp.csproj", "{702BE4F7-29CA-68A2-E84A-479FDB36BF21}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "ConsoleAppWithNetFx-for-dbg", "..\..\playground\AppSignalsTestApps\dotnetAppSignalsSolution\ConsoleAppWithNetFx\bin\Debug\ConsoleAppWithNetFx-for-dbg.exe", "{B101E8B1-5C1C-4928-1760-20F29CD19C5A}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Users\lukezha\github\playground\AppSignalsTestApps\dotnetAppSignalsSolution\ConsoleAppWithNetFx\bin\x64\Debug\ConsoleAppWithNetFx-for-dbg.exe
+		RemoteMachine = WS-L6OK1T4TQC2I
+		StartingDirectory = D:\Users\lukezha\github\playground\AppSignalsTestApps\dotnetAppSignalsSolution\ConsoleAppWithNetFx\bin\x64\Debug
+		Environment = coreclr_profiler_path_32=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution\win-x86\OpenTelemetry.AutoInstrumentation.Native.dll	otel_aws_application_signals_enabled=true	coreclr_enable_profiling=1	aspnetcore_hostingstartupassemblies=OpenTelemetry.AutoInstrumentation.AspNetCoreBootstrapper	otel_dotnet_auto_plugins=AWS.Distro.OpenTelemetry.AutoInstrumentation.Plugin, AWS.Distro.OpenTelemetry.AutoInstrumentation	otel_exporter_otlp_endpoint=http://xyz-jaeger-100	cor_profiler_path_32=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution\win-x86\OpenTelemetry.AutoInstrumentation.Native.dll	cor_profiler={918728DD-259F-4A6A-AC2B-B85E1B658318}	dotnet_startup_hooks=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution\net\OpenTelemetry.AutoInstrumentation.StartupHook.dll	cor_profiler_path_64=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution\win-x64\OpenTelemetry.AutoInstrumentation.Native.dll	otel_dotnet_auto_home=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution	otel_aws_application_signals_exporter_endpoint=http://127.0.0.1:4316/v1/metrics	coreclr_profiler_path_64=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution\win-x64\OpenTelemetry.AutoInstrumentation.Native.dll	otel_traces_sampler_arg=endpoint=http://127.0.0.1:2000	cor_enable_profiling=1	coreclr_profiler={918728DD-259F-4A6A-AC2B-B85E1B658318}	otel_traces_sampler=xray	dotnet_shared_store=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution\store	otel_service_name=netfx-adot-svc-deadlock-lab	otel_metrics_exporter=none	dotnet_additional_deps=D:\Users\lukezha\github\otel-dotnet\aws-otel-dotnet-instrumentation\OpenTelemetryDistribution\AdditionalDeps	otel_exporter_otlp_protocol=http/protobuf	
+		LaunchingEngine = 92ef0900-2251-11d2-b72e-0000f87572ef
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Debug|x86.Build.0 = Debug|Any CPU
 		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Release|x86.ActiveCfg = Release|Any CPU
+		{04FD4DB8-550B-480C-B974-4AECA5988FFB}.Release|x86.Build.0 = Release|Any CPU
 		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Debug|x86.Build.0 = Debug|Any CPU
 		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Release|x86.ActiveCfg = Release|Any CPU
+		{EF72D346-BBFA-4037-B844-88D8927A9E6E}.Release|x86.Build.0 = Release|Any CPU
 		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Debug|x86.Build.0 = Debug|Any CPU
 		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Release|x86.ActiveCfg = Release|Any CPU
+		{DBEB7F70-0C7C-4460-BAEA-B1C2A6A19849}.Release|x86.Build.0 = Release|Any CPU
 		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Debug|x86.Build.0 = Debug|Any CPU
 		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Release|x86.ActiveCfg = Release|Any CPU
+		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41}.Release|x86.Build.0 = Release|Any CPU
 		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Debug|x86.Build.0 = Debug|Any CPU
 		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Release|x86.ActiveCfg = Release|Any CPU
+		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED}.Release|x86.Build.0 = Release|Any CPU
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Debug|x86.Build.0 = Debug|Any CPU
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Release|x86.ActiveCfg = Release|Any CPU
+		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Release|x86.Build.0 = Release|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|x86.Build.0 = Debug|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|x86.ActiveCfg = Release|Any CPU
+		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|x86.Build.0 = Release|Any CPU
+		{B101E8B1-5C1C-4928-1760-20F29CD19C5A}.Debug|Any CPU.ActiveCfg = Release|x86
+		{B101E8B1-5C1C-4928-1760-20F29CD19C5A}.Debug|x86.ActiveCfg = Release|x86
+		{B101E8B1-5C1C-4928-1760-20F29CD19C5A}.Release|Any CPU.ActiveCfg = Release|x86
+		{B101E8B1-5C1C-4928-1760-20F29CD19C5A}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,5 +142,8 @@ Global
 		{ECD2F534-A9FB-48B4-8C06-6DD2F8B07C41} = {E3401B0D-DCE1-45C2-8178-2D21FA52F659}
 		{30B39779-F7AA-4AAB-B3AB-A0EFEEC35CED} = {BDFD4285-9DB0-4F47-8EDC-7F32A781DCD4}
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49} = {7E420F1D-B6D6-47AF-A430-5368FE14D2AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAC0834F-12C0-4F68-B460-B9CD8BBB6B9B}
 	EndGlobalSection
 EndGlobal
