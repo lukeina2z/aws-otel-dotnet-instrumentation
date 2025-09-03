@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTelemetry.Instrumentati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLambdaFunction", "sample-applications\lambda-test-apps\SimpleLambdaFunction\src\SimpleLambdaFunction\SimpleLambdaFunction.csproj", "{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "..\..\playground\AppSignalsTestApps\dotnetAppSignalsSolution\ConsoleApp\ConsoleApp.csproj", "{702BE4F7-29CA-68A2-E84A-479FDB36BF21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "sample-applications\ConsoleApp\ConsoleApp.csproj", "{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,14 +103,14 @@ Global
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Release|x86.ActiveCfg = Release|Any CPU
 		{3E5D9A9C-5280-4061-9B6A-5E2FDAF6FE49}.Release|x86.Build.0 = Release|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Debug|x86.Build.0 = Debug|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|Any CPU.Build.0 = Release|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|x86.ActiveCfg = Release|Any CPU
-		{702BE4F7-29CA-68A2-E84A-479FDB36BF21}.Release|x86.Build.0 = Release|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Debug|x86.Build.0 = Debug|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Release|x86.ActiveCfg = Release|Any CPU
+		{989CAA70-B0FC-FEA1-87B8-48CE091A2A2D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
